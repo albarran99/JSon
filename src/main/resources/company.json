@@ -1,0 +1,30 @@
+{
+  "name": "CUVE",
+  "departments": [
+      {
+      "name": "Administracion de redes",
+      "employess": [
+
+        {
+          "nif": "636436",
+          "name": "jose",
+          "surname": "Garcia",
+          "position": "administrador de resdes"
+        }
+      ]
+    },
+
+    {
+      "name": "Recursos Humanos",
+      "employess": [
+
+        {
+          "nif": "353436",
+          "name": "Maria",
+          "surname": "Sarten",
+          "position": "RR.HH"
+        }
+      ]
+    }
+ ]
+}
